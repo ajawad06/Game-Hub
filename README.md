@@ -31,9 +31,9 @@ The app allows users to discover video games, filter them by genre, and view rat
    git clone https://github.com/your-username/game-discovery-app.git
    cd game-discovery-app
     ```
-2.  Install dependencies:
-    ``` bash
-   npm install
+2. Install dependencies:
+    ```bash
+    npm install
     ```
 3. Start the server:
    ```bash
