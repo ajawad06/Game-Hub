@@ -4,11 +4,12 @@ import { GameQuery } from "../App";
 interface Props {
   gameQuery: GameQuery;
 }
+// === HEADING SAMPLE
+// Games
+// Action Games
+// Xbox Games
+// Xbox Action Games
 const GameHeading = ({ gameQuery }: Props) => {
-  // Games
-  // Action Games
-  // Xbox Games
-  // Xbox Action Games
   const heading = `${gameQuery.platform?.name || ""} ${
     gameQuery.genre?.name || ""
   } Games`;
