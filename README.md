@@ -39,3 +39,4 @@ The app allows users to discover video games, filter them by genre, and view rat
    ```bash
    npm run dev
    ```
+
