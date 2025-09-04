@@ -7,7 +7,7 @@ The app allows users to discover video games, filter them by genre, and view rat
 
 ## 🚀 Features
 - Browse a grid of games fetched from the [RAWG.io API](https://rawg.io/apidocs)  
-- Filter games by **genre**  
+- Filter games by **genre** 
 - Toggle between **dark** and **light** mode (Chakra UI)  
 - Responsive layout with a collapsible sidebar  
 - Skeleton loaders for a smoother UX  
